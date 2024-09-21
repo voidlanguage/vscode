@@ -1,6 +1,6 @@
 # Void Language VSCode Support (Legacy)
 
-This project was renamed to voyd. The new extension at github.com/void-lang/vscode and the extension is available as voyd on the marketplace.
+This project was renamed to voyd. The new extension at [github.com/void-lang/vscode](github.com/void-lang/vscode) and the extension is available as voyd on the marketplace.
 
 Features:
 
